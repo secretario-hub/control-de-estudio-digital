@@ -1,0 +1,3 @@
+Mi propósito con esta actividad es utilizar las ventajas que nos proporciona Google Workspace para los docentes de Andalucía. Al disponer de un gran espacio de alojamiento (Google Drive), un editor de texto (Google Documentos) y una hoja de cálculo (Google Hojas de Cálculo), podemos almacenar grabaciones tanto de audio como de vídeo en una carpeta compartida por toda la clase de piano, podemos tomar las notas que consideremos oportunas y llevar un control de progreso en un conjunto de tablas.
+
+Como opción interesante, se podrían integrar todas las herramientas dentro de Google Classroom que funcione como lugar de partida.
